@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXProject", "DirectXProject\DirectXProject.vcxproj", "{DC077DEB-CBBD-4539-99AA-D9690F0F5FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC077DEB-CBBD-4539-99AA-D9690F0F5FC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC077DEB-CBBD-4539-99AA-D9690F0F5FC1}.Debug|Win32.Build.0 = Debug|Win32
+		{DC077DEB-CBBD-4539-99AA-D9690F0F5FC1}.Release|Win32.ActiveCfg = Debug|Win32
+		{DC077DEB-CBBD-4539-99AA-D9690F0F5FC1}.Release|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75FC8C1-77A7-4800-AF95-44F08E150D2F}
+	EndGlobalSection
+EndGlobal
